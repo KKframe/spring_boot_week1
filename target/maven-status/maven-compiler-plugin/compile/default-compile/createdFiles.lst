@@ -1,0 +1,8 @@
+com\training\platform\controllers\api\UserController.class
+com\training\platform\services\UserService.class
+com\training\platform\controllers\DemoController.class
+com\training\platform\repositories\UserRepository.class
+com\training\platform\entities\Shop.class
+com\training\platform\services\UserServiceImpl.class
+com\training\platform\entities\User.class
+com\training\platform\PlatformApplication.class
